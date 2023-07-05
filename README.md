@@ -7,7 +7,6 @@ TABLE OF CONTENTS
   1. Installations
   2. Usage
   3. Credits
-  4. License
 
 INSTALLATION
 
@@ -32,6 +31,3 @@ CREDITS
 This project idea was created by exercism.org with the authors being aldraco and BethanyG
 https://exercism.org/tracks/python/exercises/little-sisters-vocab
 
-LICENSE
-
-MIT 
